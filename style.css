@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding : 0;
+}
+
+html , body {
+  text-align: center;
+  font-family: monospace;
+}
+
+h1 {
+  margin : 20px auto;
+}
+
+label {
+  margin: 10px auto;
+}
